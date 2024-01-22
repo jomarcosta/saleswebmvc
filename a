@@ -1,0 +1,17 @@
+[33mcommit 41680e767b7fbe483ba522b8248c994805f28f01[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: jomarcosta <jomarcosta19@gmail.com>
+Date:   Mon Jan 22 12:35:45 2024 -0300
+
+    First controller and Razor pages tests
+
+[33mcommit e62c166e6fbdf2ea894e93c240b88c59889fc198[m
+Author: jomarcosta <jomarcosta19@gmail.com>
+Date:   Mon Jan 15 00:24:07 2024 -0300
+
+    Project created
+
+[33mcommit b92f0e721f6132f2b1312982d519728daf1c7c95[m
+Author: Jomar Costa <99927226+jomarcosta@users.noreply.github.com>
+Date:   Mon Jan 15 00:15:05 2024 -0300
+
+    Initial commit
